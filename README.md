@@ -6,8 +6,8 @@ Convolutional Neural Networks have been used in a variety of image related appli
 <br>
 
 <h4> Paper link : https://arxiv.org/abs/2301.06687</h4>
-<br><br>
-This Repository consist of code and documentation needed for successfully running the project. <br><br>
+<br>
+This Repository consist of code and documentation needed for successfully running the project. <br>
 Below are the steps needed to be installed before running this project : 
 
 ### Technical Skills 
