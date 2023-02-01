@@ -15,7 +15,26 @@ Below are the steps needed to be installed before running this project :
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 <br>
-## File Description and Content 
+## 1) Installing Anaconda
+    https://docs.anaconda.com/anaconda/install/index.html
+
+## 2) Installing Spyder
+#### Check the following installation guide
+    https://docs.spyder-ide.org/current/installation.html
+    
+## 3) Installing Machine Learning Libraries
+##### TensorFlow
+      !pip install tensorflow
+##### Keras
+      !pip install keras
+##### Pandas
+      !pip install pandas
+##### NumPy
+      !pip install numpy
+##### Matplotlib
+      !pip install matplotlib
+     
+## 4) File Description and Content 
 * CNNCONSTANTS.py :
 * CNNGenerator.py :
 * DQNAgent.py :
