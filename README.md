@@ -16,7 +16,13 @@ Below are the steps needed to be installed before running this project :
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 <br>
 ## File Description and Content 
-* CNNAS.py :
+* CNNCONSTANTS.py :
+* CNNGenerator.py :
+* DQNAgent.py :
+* DQNController.py :
+* NASrun.py :
+* NASutils.py :
+* cnnas.py :
 
 <br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
