@@ -35,13 +35,13 @@ Below are the steps needed to be installed before running this project :
       !pip install matplotlib
      
 ## 4) File Description and Content 
-* CNNCONSTANTS.py :
-* CNNGenerator.py :
-* DQNAgent.py :
-* DQNController.py :
-* NASrun.py :
-* NASutils.py :
-* cnnas.py :
+* CNNCONSTANTS.py : Contains values for constants used in CNN and LSTM model (Controller) generation anc compilation
+* CNNGenerator.py : Functions used for the creation of CNN architecture 
+* DQNAgent.py : Consists functions required for generation of controller model
+* DQNController.py : Sampling of CNN architectures and training of the controller model 
+* NASrun.py : Main file used to run the program (May change the dataset loaded from Keras to some other dataset)
+* NASutils.py : Printing and Visualization of CNN architectures 
+* cnnas.py : Training and Testing of CNN Architectures 
 
 <br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
