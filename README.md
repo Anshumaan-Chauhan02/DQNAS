@@ -5,8 +5,7 @@
 Convolutional Neural Networks have been used in a variety of image related applications after their rise in popularity due to ImageNet competition. Convolutional Neural Networks have shown remarkable results in applications including face recognition, moving target detection and tracking, classification of food based on the calorie content and many more. Designing of Convolutional Neural Networks requires experts having a cross domain knowledge and it is laborious, which requires a lot of time for testing different values for different hyperparameter along with the consideration of different configurations of existing architectures. Neural Architecture Search is an automated way of generating Neural Network architectures which saves researchers from all the brute-force testing trouble, but with the drawback of consuming a lot of computational resources for a prolonged period. In this paper, we propose an automated Neural Architecture Search framework DQNAS, guided by the principles of Reinforcement Learning along with One-shot Training which aims to generate neural network architectures that show superior performance and have minimum scalability problem. 
 <br>
 
-<h4> Paper link : (https://arxiv.org/abs/2301.06687)</h4>
-
+<h4> Paper link : https://arxiv.org/abs/2301.06687</h4>
 <br><br>
 This Repository consist of code and documentation needed for successfully running the project. <br><br>
 Below are the steps needed to be installed before running this project : 
